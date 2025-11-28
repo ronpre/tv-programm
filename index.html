@@ -164,7 +164,9 @@
     </main>
 
     <script>
-        const scheduleData = {
+        let scheduleData = {};
+
+        const fallbackSchedule = {
             ARD: {
                 monday: [
                     { time: "19:30", title: "ARD extra: Der Tag", description: "Das Wichtigste vom Tag, kompakt eingeordnet und mit Hintergrund." },
@@ -277,6 +279,20 @@
             });
         }
 
+        async function loadScheduleData() {
+            try {
+                const response = await fetch("programm.json", { cache: "no-store" });
+                if (!response.ok) {
+                    throw new Error(`Programmabruf fehlgeschlagen: ${response.status}`);
+                }
+                const data = await response.json();
+                scheduleData = data && typeof data === "object" ? data : fallbackSchedule;
+            } catch (error) {
+                console.error("Falle auf lokale Programmdaten zurück", error);
+                scheduleData = fallbackSchedule;
+            }
+        }
+
         function renderSchedule() {
             const now = new Date();
             const dayKey = dayMap[now.getDay()];
@@ -289,6 +305,14 @@
                 const [hours, minutes] = time.split(":").map(Number);
                 return (Number.isFinite(hours) && Number.isFinite(minutes)) ? hours * 60 + minutes : NaN;
             };
+
+            if (!scheduleData || !Object.keys(scheduleData).length) {
+                const empty = document.createElement("p");
+                empty.className = "description";
+                empty.textContent = "Keine Programmdaten verfügbar.";
+                scheduleGrid.appendChild(empty);
+                return;
+            }
 
             Object.entries(scheduleData).forEach(([channel, plan]) => {
                 const nightlySlots = (plan[dayKey] || []).filter(slot => {
@@ -339,6 +363,11 @@
             });
         }
 
+        async function refreshSchedule() {
+            await loadScheduleData();
+            renderSchedule();
+        }
+
         function scheduleDailyRefresh() {
             const now = new Date();
             const nextRefresh = new Date(now);
@@ -350,14 +379,18 @@
 
             const waitMs = nextRefresh.getTime() - now.getTime();
 
-            window.setTimeout(() => {
-                renderSchedule();
+            window.setTimeout(async () => {
+                await refreshSchedule();
                 scheduleDailyRefresh();
             }, waitMs);
         }
 
-        renderSchedule();
-        scheduleDailyRefresh();
+        async function init() {
+            await refreshSchedule();
+            scheduleDailyRefresh();
+        }
+
+        init();
     </script>
 </body>
 </html>
