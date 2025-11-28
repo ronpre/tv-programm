@@ -156,7 +156,7 @@
 </head>
 <body>
     <header>
-        <h1 id="headline">TV Programm – Heute</h1>
+        <h1 id="headline">Programm --</h1>
         <p>Die Highlights des Tages für ARD und ZDF – übersichtlich aufbereitet, damit du nichts verpasst.</p>
     </header>
 
@@ -275,11 +275,19 @@
             });
         }
 
+        function formatShortDate(date) {
+            return date.toLocaleDateString("de-DE", {
+                day: "2-digit",
+                month: "2-digit",
+                year: "2-digit"
+            });
+        }
+
         function renderSchedule() {
             const now = new Date();
             const dayKey = dayMap[now.getDay()];
 
-            headline.textContent = `TV Programm – ${formatDate(now)}`;
+            headline.textContent = `Programm ${formatShortDate(now)}`;
             timestamp.textContent = formatDate(now);
 
             scheduleGrid.innerHTML = "";
