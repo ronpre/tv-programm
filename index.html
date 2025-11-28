@@ -163,10 +163,6 @@
         <section class="grid" id="schedule-grid"></section>
     </main>
 
-    <footer>
-        Angaben ohne Gewähr • Stand: <span id="timestamp">28. November 2025</span>
-    </footer>
-
     <script>
         const scheduleData = {
             ARD: {
@@ -263,7 +259,6 @@
 
         const scheduleGrid = document.getElementById("schedule-grid");
         const headline = document.getElementById("headline");
-        const timestamp = document.getElementById("timestamp");
 
         function formatDate(date) {
             return date.toLocaleDateString("de-DE", {
@@ -287,7 +282,6 @@
             const dayKey = dayMap[now.getDay()];
 
             headline.textContent = `Programm ${formatShortDate(now)}`;
-            timestamp.textContent = formatDate(now);
 
             scheduleGrid.innerHTML = "";
 
