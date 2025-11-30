@@ -10,66 +10,12 @@
       { "time": "22:30", "title": "Hart aber fair", "description": "Diskussion mit Gästen." },
       { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "Regionalzeit", "description": "Berichte aus den Bundesländern." },
-      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
-      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
-      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
-      { "time": "20:15", "title": "In aller Freundschaft", "description": "Arztserie aus Leipzig." },
-      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
-      { "time": "22:30", "title": "Nuhr im Ersten", "description": "Kabarettistischer Wochenrückblick." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "Wissen Kompakt", "description": "Wissenschaft einfach erklärt." },
-      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
-      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
-      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
-      { "time": "20:15", "title": "Die große Doku", "description": "Dokumentation zu aktuellen Themen." },
-      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
-      { "time": "22:30", "title": "Maischberger", "description": "Talkrunde mit Gästen." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "Story des Tages", "description": "Reportage zu aktuellen Themen." },
-      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
-      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
-      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
-      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." },
-      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
-      { "time": "22:30", "title": "Monitor", "description": "Politikmagazin." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "Brisant", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
-      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
-      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
-      { "time": "20:15", "title": "Quizduell", "description": "Quizshow mit Prominenten." },
-      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
-      { "time": "22:30", "title": "Tatort (Wdh)", "description": "Krimi-Wiederholung." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "Sportschau", "description": "Sportnachrichten und Analysen." },
-      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
-      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
-      { "time": "19:30", "title": "Sportschau vor acht", "description": "Sportliche Highlights." },
-      { "time": "20:15", "title": "Samstagskrimi", "description": "Krimi am Samstagabend." },
-      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
-      { "time": "22:30", "title": "Kaum zu glauben!", "description": "Quizshow." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "Länderreport", "description": "Berichte aus den Regionen." },
-      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
-      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
-      { "time": "19:30", "title": "Weltspiegel", "description": "Auslandsmagazin." },
-      { "time": "20:15", "title": "Polizeiruf 110", "description": "Krimireihe am Sonntag." },
-      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
-      { "time": "22:30", "title": "Anne Will", "description": "Talkrunde." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "ZDF": {
     "monday": [
@@ -82,66 +28,12 @@
       { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
       { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "SOKO Leipzig", "description": "Krimiserie aus Leipzig." },
-      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
-      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
-      { "time": "19:25", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." },
-      { "time": "20:15", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." },
-      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
-      { "time": "22:15", "title": "37°", "description": "Reportage." },
-      { "time": "23:00", "title": "maybrit illner", "description": "Talkshow." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "SOKO Wismar", "description": "Krimiserie aus Wismar." },
-      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
-      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
-      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
-      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." },
-      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
-      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
-      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "SOKO Stuttgart", "description": "Krimiserie aus Stuttgart." },
-      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
-      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
-      { "time": "19:25", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." },
-      { "time": "20:15", "title": "DonnerstagsKrimi", "description": "Krimi am Donnerstag." },
-      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
-      { "time": "22:15", "title": "37°", "description": "Reportage." },
-      { "time": "23:00", "title": "maybrit illner", "description": "Talkshow." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "SOKO Hamburg", "description": "Krimiserie aus Hamburg." },
-      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
-      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
-      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
-      { "time": "20:15", "title": "Der Quiz-Champion", "description": "Quizshow mit Prominenten." },
-      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
-      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
-      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "plan b", "description": "Reportagen und Dokus." },
-      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
-      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
-      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
-      { "time": "20:15", "title": "Das aktuelle Sportstudio", "description": "Sport und Analysen." },
-      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
-      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
-      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "Terra Xpress", "description": "Wissensmagazin." },
-      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
-      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
-      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
-      { "time": "20:15", "title": "Terra X", "description": "Wissensdoku mit Bildern." },
-      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
-      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
-      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "arte": {
     "monday": [
@@ -154,66 +46,12 @@
       { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
       { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin." },
-      { "time": "18:30", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
-      { "time": "19:00", "title": "Mit offenen Karten", "description": "Geopolitische Analysen." },
-      { "time": "19:30", "title": "Square", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Dokumentarfilm", "description": "Doku aus Europa." },
-      { "time": "21:45", "title": "Arte Journal", "description": "Nachrichten aus Europa." },
-      { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
-      { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "Geo Reportage", "description": "Reportagen aus aller Welt." },
-      { "time": "18:30", "title": "Xenius", "description": "Wissenschaftsmagazin." },
-      { "time": "19:00", "title": "Mit offenen Karten", "description": "Geopolitische Analysen." },
-      { "time": "19:30", "title": "Square", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Konzert", "description": "Klassik-Highlight." },
-      { "time": "21:45", "title": "Arte Journal", "description": "Nachrichten aus Europa." },
-      { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
-      { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
-      { "time": "18:30", "title": "Xenius", "description": "Wissenschaftsmagazin." },
-      { "time": "19:00", "title": "Mit offenen Karten", "description": "Geopolitische Analysen." },
-      { "time": "19:30", "title": "Square", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." },
-      { "time": "21:45", "title": "Arte Journal", "description": "Nachrichten aus Europa." },
-      { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
-      { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin." },
-      { "time": "18:30", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
-      { "time": "19:00", "title": "Mit offenen Karten", "description": "Geopolitische Analysen." },
-      { "time": "19:30", "title": "Square", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Dokumentarfilm", "description": "Doku aus Europa." },
-      { "time": "21:45", "title": "Arte Journal", "description": "Nachrichten aus Europa." },
-      { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
-      { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "Geo Reportage", "description": "Reportagen aus aller Welt." },
-      { "time": "18:30", "title": "Xenius", "description": "Wissenschaftsmagazin." },
-      { "time": "19:00", "title": "Mit offenen Karten", "description": "Geopolitische Analysen." },
-      { "time": "19:30", "title": "Square", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Konzert", "description": "Klassik-Highlight." },
-      { "time": "21:45", "title": "Arte Journal", "description": "Nachrichten aus Europa." },
-      { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
-      { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
-      { "time": "18:30", "title": "Xenius", "description": "Wissenschaftsmagazin." },
-      { "time": "19:00", "title": "Mit offenen Karten", "description": "Geopolitische Analysen." },
-      { "time": "19:30", "title": "Square", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." },
-      { "time": "21:45", "title": "Arte Journal", "description": "Nachrichten aus Europa." },
-      { "time": "22:30", "title": "Tracks", "description": "Popkultur-Magazin." },
-      { "time": "23:15", "title": "Kurzschluss", "description": "Kurzfilme und Interviews." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "3 sat": {
     "monday": [
@@ -226,66 +64,12 @@
       { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
       { "time": "23:15", "title": "Film", "description": "Europäischer Spielfilm." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
-      { "time": "18:30", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
-      { "time": "19:00", "title": "Scobel", "description": "Philosophische Analysen." },
-      { "time": "19:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Film", "description": "Politthriller." },
-      { "time": "21:45", "title": "3satFestival", "description": "Konzertmitschnitte." },
-      { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "23:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
-      { "time": "18:30", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
-      { "time": "19:00", "title": "Scobel", "description": "Philosophische Analysen." },
-      { "time": "19:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." },
-      { "time": "21:45", "title": "3satFestival", "description": "Konzertmitschnitte." },
-      { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "23:15", "title": "Film", "description": "Europäischer Spielfilm." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "Scobel", "description": "Philosophische Analysen." },
-      { "time": "18:30", "title": "nano", "description": "Wissenschaftsmagazin." },
-      { "time": "19:00", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
-      { "time": "19:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Film", "description": "Politthriller." },
-      { "time": "21:45", "title": "3satFestival", "description": "Konzertmitschnitte." },
-      { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "23:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
-      { "time": "18:30", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
-      { "time": "19:00", "title": "Scobel", "description": "Philosophische Analysen." },
-      { "time": "19:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." },
-      { "time": "21:45", "title": "3satFestival", "description": "Konzertmitschnitte." },
-      { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "23:15", "title": "Film", "description": "Europäischer Spielfilm." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "Scobel", "description": "Philosophische Analysen." },
-      { "time": "18:30", "title": "nano", "description": "Wissenschaftsmagazin." },
-      { "time": "19:00", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
-      { "time": "19:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Film", "description": "Politthriller." },
-      { "time": "21:45", "title": "3satFestival", "description": "Konzertmitschnitte." },
-      { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "23:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
-      { "time": "18:30", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
-      { "time": "19:00", "title": "Scobel", "description": "Philosophische Analysen." },
-      { "time": "19:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." },
-      { "time": "21:45", "title": "3satFestival", "description": "Konzertmitschnitte." },
-      { "time": "22:30", "title": "Kulturpalast", "description": "Kulturmagazin." },
-      { "time": "23:15", "title": "Film", "description": "Europäischer Spielfilm." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "rtl": {
     "monday": [
@@ -298,66 +82,12 @@
       { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
       { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-      { "time": "18:30", "title": "Explosiv", "description": "Das Magazin." },
-      { "time": "19:00", "title": "Exclusiv", "description": "Das Star-Magazin." },
-      { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Daily Soap." },
-      { "time": "20:15", "title": "Die Höhle der Löwen", "description": "Gründer stellen ihre Ideen vor." },
-      { "time": "21:45", "title": "Stern TV", "description": "Reportagemagazin." },
-      { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
-      { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-      { "time": "18:30", "title": "Explosiv", "description": "Das Magazin." },
-      { "time": "19:00", "title": "Exclusiv", "description": "Das Star-Magazin." },
-      { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Daily Soap." },
-      { "time": "20:15", "title": "Sankt Maik", "description": "Comedyserie." },
-      { "time": "21:45", "title": "Stern TV", "description": "Reportagemagazin." },
-      { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
-      { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-      { "time": "18:30", "title": "Explosiv", "description": "Das Magazin." },
-      { "time": "19:00", "title": "Exclusiv", "description": "Das Star-Magazin." },
-      { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Daily Soap." },
-      { "time": "20:15", "title": "Alarm für Cobra 11", "description": "Actionserie." },
-      { "time": "21:45", "title": "Stern TV", "description": "Reportagemagazin." },
-      { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
-      { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-      { "time": "18:30", "title": "Explosiv", "description": "Das Magazin." },
-      { "time": "19:00", "title": "Exclusiv", "description": "Das Star-Magazin." },
-      { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Daily Soap." },
-      { "time": "20:15", "title": "Let's Dance", "description": "Tanzshow mit Promis." },
-      { "time": "21:45", "title": "Stern TV", "description": "Reportagemagazin." },
-      { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
-      { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-      { "time": "18:30", "title": "Explosiv", "description": "Das Magazin." },
-      { "time": "19:00", "title": "Exclusiv", "description": "Das Star-Magazin." },
-      { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Daily Soap." },
-      { "time": "20:15", "title": "Deutschland sucht den Superstar", "description": "Castingshow." },
-      { "time": "21:45", "title": "Stern TV", "description": "Reportagemagazin." },
-      { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
-      { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-      { "time": "18:30", "title": "Explosiv", "description": "Das Magazin." },
-      { "time": "19:00", "title": "Exclusiv", "description": "Das Star-Magazin." },
-      { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Daily Soap." },
-      { "time": "20:15", "title": "Bauer sucht Frau", "description": "Kuppelshow." },
-      { "time": "21:45", "title": "Stern TV", "description": "Reportagemagazin." },
-      { "time": "22:30", "title": "Spiegel TV", "description": "Reportagen." },
-      { "time": "23:15", "title": "Nachtjournal", "description": "Nachrichten." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "sat 1": {
     "monday": [
@@ -370,66 +100,12 @@
       { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
       { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
-      { "time": "18:30", "title": "Lenßen übernimmt", "description": "Anwalt hilft in schwierigen Situationen." },
-      { "time": "19:00", "title": "Akte", "description": "Reportagemagazin." },
-      { "time": "19:30", "title": "Big Brother", "description": "Reality-Show." },
-      { "time": "20:15", "title": "Promi Big Brother", "description": "Promis im Container." },
-      { "time": "21:45", "title": "The Taste", "description": "Kochshow." },
-      { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
-      { "time": "18:30", "title": "Lenßen übernimmt", "description": "Anwalt hilft in schwierigen Situationen." },
-      { "time": "19:00", "title": "Akte", "description": "Reportagemagazin." },
-      { "time": "19:30", "title": "Big Brother", "description": "Reality-Show." },
-      { "time": "20:15", "title": "The Taste", "description": "Kochshow." },
-      { "time": "21:45", "title": "Promi Big Brother", "description": "Promis im Container." },
-      { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
-      { "time": "18:30", "title": "Lenßen übernimmt", "description": "Anwalt hilft in schwierigen Situationen." },
-      { "time": "19:00", "title": "Akte", "description": "Reportagemagazin." },
-      { "time": "19:30", "title": "Big Brother", "description": "Reality-Show." },
-      { "time": "20:15", "title": "Promi Big Brother", "description": "Promis im Container." },
-      { "time": "21:45", "title": "The Taste", "description": "Kochshow." },
-      { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
-      { "time": "18:30", "title": "Lenßen übernimmt", "description": "Anwalt hilft in schwierigen Situationen." },
-      { "time": "19:00", "title": "Akte", "description": "Reportagemagazin." },
-      { "time": "19:30", "title": "Big Brother", "description": "Reality-Show." },
-      { "time": "20:15", "title": "The Taste", "description": "Kochshow." },
-      { "time": "21:45", "title": "Promi Big Brother", "description": "Promis im Container." },
-      { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
-      { "time": "18:30", "title": "Lenßen übernimmt", "description": "Anwalt hilft in schwierigen Situationen." },
-      { "time": "19:00", "title": "Akte", "description": "Reportagemagazin." },
-      { "time": "19:30", "title": "Big Brother", "description": "Reality-Show." },
-      { "time": "20:15", "title": "The Taste", "description": "Kochshow." },
-      { "time": "21:45", "title": "Promi Big Brother", "description": "Promis im Container." },
-      { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
-      { "time": "18:30", "title": "Lenßen übernimmt", "description": "Anwalt hilft in schwierigen Situationen." },
-      { "time": "19:00", "title": "Akte", "description": "Reportagemagazin." },
-      { "time": "19:30", "title": "Big Brother", "description": "Reality-Show." },
-      { "time": "20:15", "title": "The Taste", "description": "Kochshow." },
-      { "time": "21:45", "title": "Promi Big Brother", "description": "Promis im Container." },
-      { "time": "22:30", "title": "akte. Spezial", "description": "Reportage." },
-      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "pro sieben": {
     "monday": [
@@ -442,66 +118,12 @@
       { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
       { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Galileo", "description": "Wissensmagazin." },
-      { "time": "19:00", "title": "Newstime", "description": "Nachrichten." },
-      { "time": "19:30", "title": "Galileo Big Pictures", "description": "Bilder der Woche." },
-      { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Show mit Entertainern." },
-      { "time": "21:45", "title": "Late Night Berlin", "description": "Talkshow." },
-      { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Galileo", "description": "Wissensmagazin." },
-      { "time": "19:00", "title": "Newstime", "description": "Nachrichten." },
-      { "time": "19:30", "title": "Galileo Big Pictures", "description": "Bilder der Woche." },
-      { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." },
-      { "time": "21:45", "title": "Late Night Berlin", "description": "Talkshow." },
-      { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Galileo", "description": "Wissensmagazin." },
-      { "time": "19:00", "title": "Newstime", "description": "Nachrichten." },
-      { "time": "19:30", "title": "Galileo Big Pictures", "description": "Bilder der Woche." },
-      { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Show mit Entertainern." },
-      { "time": "21:45", "title": "Late Night Berlin", "description": "Talkshow." },
-      { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Galileo", "description": "Wissensmagazin." },
-      { "time": "19:00", "title": "Newstime", "description": "Nachrichten." },
-      { "time": "19:30", "title": "Galileo Big Pictures", "description": "Bilder der Woche." },
-      { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." },
-      { "time": "21:45", "title": "Late Night Berlin", "description": "Talkshow." },
-      { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Galileo", "description": "Wissensmagazin." },
-      { "time": "19:00", "title": "Newstime", "description": "Nachrichten." },
-      { "time": "19:30", "title": "Galileo Big Pictures", "description": "Bilder der Woche." },
-      { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Show mit Entertainern." },
-      { "time": "21:45", "title": "Late Night Berlin", "description": "Talkshow." },
-      { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
-      { "time": "18:30", "title": "Galileo", "description": "Wissensmagazin." },
-      { "time": "19:00", "title": "Newstime", "description": "Nachrichten." },
-      { "time": "19:30", "title": "Galileo Big Pictures", "description": "Bilder der Woche." },
-      { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." },
-      { "time": "21:45", "title": "Late Night Berlin", "description": "Talkshow." },
-      { "time": "22:30", "title": "red.", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "TV total", "description": "Comedyshow." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   },
   "vox": {
     "monday": [
@@ -514,65 +136,11 @@
       { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
       { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
-      { "time": "18:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb." },
-      { "time": "19:00", "title": "Shopping Queen", "description": "Modewettbewerb." },
-      { "time": "19:30", "title": "4 Hochzeiten und eine Traumreise", "description": "Hochzeits-Doku." },
-      { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen Songs." },
-      { "time": "21:45", "title": "Goodbye Deutschland", "description": "Auswanderer-Doku." },
-      { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
-      { "time": "18:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb." },
-      { "time": "19:00", "title": "Shopping Queen", "description": "Modewettbewerb." },
-      { "time": "19:30", "title": "4 Hochzeiten und eine Traumreise", "description": "Hochzeits-Doku." },
-      { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." },
-      { "time": "21:45", "title": "Goodbye Deutschland", "description": "Auswanderer-Doku." },
-      { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
-      { "time": "18:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb." },
-      { "time": "19:00", "title": "Shopping Queen", "description": "Modewettbewerb." },
-      { "time": "19:30", "title": "4 Hochzeiten und eine Traumreise", "description": "Hochzeits-Doku." },
-      { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen Songs." },
-      { "time": "21:45", "title": "Goodbye Deutschland", "description": "Auswanderer-Doku." },
-      { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
-      { "time": "18:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb." },
-      { "time": "19:00", "title": "Shopping Queen", "description": "Modewettbewerb." },
-      { "time": "19:30", "title": "4 Hochzeiten und eine Traumreise", "description": "Hochzeits-Doku." },
-      { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." },
-      { "time": "21:45", "title": "Goodbye Deutschland", "description": "Auswanderer-Doku." },
-      { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
-      { "time": "18:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb." },
-      { "time": "19:00", "title": "Shopping Queen", "description": "Modewettbewerb." },
-      { "time": "19:30", "title": "4 Hochzeiten und eine Traumreise", "description": "Hochzeits-Doku." },
-      { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen Songs." },
-      { "time": "21:45", "title": "Goodbye Deutschland", "description": "Auswanderer-Doku." },
-      { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
-      { "time": "18:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb." },
-      { "time": "19:00", "title": "Shopping Queen", "description": "Modewettbewerb." },
-      { "time": "19:30", "title": "4 Hochzeiten und eine Traumreise", "description": "Hochzeits-Doku." },
-      { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." },
-      { "time": "21:45", "title": "Goodbye Deutschland", "description": "Auswanderer-Doku." },
-      { "time": "22:30", "title": "Prominent!", "description": "Promi-Magazin." },
-      { "time": "23:15", "title": "auto mobil", "description": "Das VOX-Automagazin." }
-    ]
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
   }
 }
