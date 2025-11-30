@@ -3,13 +3,578 @@
     "monday": [
       { "time": "18:00", "title": "Abenteuer Leben", "description": "Reportagen und Service." },
       { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie rund um ein Ermittlerteam." }
-    ],
-  {
-    "ARD": {
-      { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über eine Millionärsfamilie." }
-    "ZDF": {
-      { "time": "18:00", "title": "Woozle Goozle", "description": "Wissensshow für Kinder." },
-      { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow mit Händlern." }
+    {
+      "ARD": {
+        "monday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Regionale Themen zum Feierabend." },
+          { "time": "20:15", "title": "Tatort", "description": "Krimi aus Deutschland." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Regionalzeit", "description": "Berichte aus den Bundesländern." },
+          { "time": "20:15", "title": "In aller Freundschaft", "description": "Arztserie aus Leipzig." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Wissen Kompakt", "description": "Wissenschaft einfach erklärt." },
+          { "time": "20:15", "title": "Die große Doku", "description": "Dokumentation zu aktuellen Themen." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Story des Tages", "description": "Reportage zu aktuellen Themen." },
+          { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Brisant", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "Quizduell", "description": "Quizshow mit Prominenten." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Sportschau", "description": "Sportnachrichten und Analysen." },
+          { "time": "20:15", "title": "Samstagskrimi", "description": "Krimi am Samstagabend." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Länderreport", "description": "Berichte aus den Regionen." },
+          { "time": "20:15", "title": "Polizeiruf 110", "description": "Krimireihe am Sonntag." }
+        ]
+      },
+      "ZDF": {
+        "monday": [
+          { "time": "18:00", "title": "SOKO Köln", "description": "Krimiserie aus Köln." },
+          { "time": "20:15", "title": "Montagskino", "description": "Spielfilm zum Wochenstart." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "SOKO Leipzig", "description": "Krimiserie aus Leipzig." },
+          { "time": "20:15", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "SOKO Wismar", "description": "Krimiserie aus Wismar." },
+          { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "SOKO Stuttgart", "description": "Krimiserie aus Stuttgart." },
+          { "time": "20:15", "title": "DonnerstagsKrimi", "description": "Krimi am Donnerstag." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "SOKO Hamburg", "description": "Krimiserie aus Hamburg." },
+          { "time": "20:15", "title": "Der Quiz-Champion", "description": "Quizshow mit Prominenten." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "plan b", "description": "Reportagen und Dokus." },
+          { "time": "20:15", "title": "Das aktuelle Sportstudio", "description": "Sport und Analysen." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Terra Xpress", "description": "Wissensmagazin." },
+          { "time": "20:15", "title": "Terra X", "description": "Wissensdoku mit Bildern." }
+        ]
+      },
+      "arte": {
+        "monday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
+          { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin." },
+          { "time": "20:15", "title": "Dokumentarfilm", "description": "Doku aus Europa." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Geo Reportage", "description": "Reportagen aus aller Welt." },
+          { "time": "20:15", "title": "Konzert", "description": "Klassik-Highlight." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
+          { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin." },
+          { "time": "20:15", "title": "Dokumentarfilm", "description": "Doku aus Europa." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Geo Reportage", "description": "Reportagen aus aller Welt." },
+          { "time": "20:15", "title": "Konzert", "description": "Klassik-Highlight." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
+          { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
+        ]
+      },
+      "3 sat": {
+        "monday": [
+          { "time": "18:00", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Scobel", "description": "Philosophische Analysen." },
+          { "time": "20:15", "title": "Film", "description": "Politthriller." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
+          { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Scobel", "description": "Philosophische Analysen." },
+          { "time": "20:15", "title": "Film", "description": "Politthriller." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
+          { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Scobel", "description": "Philosophische Analysen." },
+          { "time": "20:15", "title": "Film", "description": "Politthriller." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin." },
+          { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
+        ]
+      },
+      "rtl": {
+        "monday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Wer wird Millionär?", "description": "Quizshow mit Günther Jauch." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Die Höhle der Löwen", "description": "Gründer stellen ihre Ideen vor." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Sankt Maik", "description": "Comedyserie." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Alarm für Cobra 11", "description": "Actionserie." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Let's Dance", "description": "Tanzshow mit Promis." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Deutschland sucht den Superstar", "description": "Castingshow." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "20:15", "title": "Bauer sucht Frau", "description": "Kuppelshow." }
+        ]
+      },
+      "sat 1": {
+        "monday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "Promi Big Brother", "description": "Promis im Container." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "Promi Big Brother", "description": "Promis im Container." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "Promi Big Brother", "description": "Promis im Container." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow." }
+        ]
+      },
+      "pro sieben": {
+        "monday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Show mit Entertainern." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Show mit Entertainern." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Show mit Entertainern." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." }
+        ]
+      },
+      "vox": {
+        "monday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen Songs." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen Songs." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen Songs." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ]
+      },
+      "kabel eins": {
+        "monday": [
+          { "time": "18:00", "title": "Abenteuer Leben", "description": "Reportagen und Service." },
+          { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Mein Lokal, Dein Lokal", "description": "Kochduell." },
+          { "time": "20:15", "title": "Lethal Weapon", "description": "Cop-Serie." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Achtung Kontrolle!", "description": "Doku über Kontrolleure." },
+          { "time": "20:15", "title": "Rosins Restaurants", "description": "Frank Rosin hilft Gastronomen." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "K1 Magazin", "description": "Magazin mit Reportagen." },
+          { "time": "20:15", "title": "Criminal Minds", "description": "Profiler auf Verbrecherjagd." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Abenteuer Leben", "description": "Reportagen und Service." },
+          { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Mein Lokal, Dein Lokal", "description": "Kochduell." },
+          { "time": "20:15", "title": "Lethal Weapon", "description": "Cop-Serie." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Achtung Kontrolle!", "description": "Doku über Kontrolleure." },
+          { "time": "20:15", "title": "Rosins Restaurants", "description": "Frank Rosin hilft Gastronomen." }
+        ]
+      },
+      "rtl zwei": {
+        "monday": [
+          { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap aus Berlin." },
+          { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über Millionäre." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Köln 50667", "description": "Doku-Soap aus Köln." },
+          { "time": "20:15", "title": "Game of Thrones", "description": "Fantasy-Epos." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap aus Berlin." },
+          { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über Millionäre." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Köln 50667", "description": "Doku-Soap aus Köln." },
+          { "time": "20:15", "title": "Game of Thrones", "description": "Fantasy-Epos." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap aus Berlin." },
+          { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über Millionäre." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Köln 50667", "description": "Doku-Soap aus Köln." },
+          { "time": "20:15", "title": "Game of Thrones", "description": "Fantasy-Epos." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap aus Berlin." },
+          { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über Millionäre." }
+        ]
+      },
+      "super rtl": {
+        "monday": [
+          { "time": "18:00", "title": "Angelo!", "description": "Animationsserie." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Woozle Goozle", "description": "Wissensshow." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Angelo!", "description": "Animationsserie." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Woozle Goozle", "description": "Wissensshow." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Angelo!", "description": "Animationsserie." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Woozle Goozle", "description": "Wissensshow." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Angelo!", "description": "Animationsserie." },
+          { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+        ]
+      },
+      "phoenix": {
+        "monday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+          { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+        ]
+      },
+      "ndr": {
+        "monday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+          { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+        ]
+      },
+      "mdr": {
+        "monday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+          { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+        ]
+      },
+      "wdr": {
+        "monday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+          { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+        ]
+      },
+      "hr": {
+        "monday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+          { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+        ]
+      },
+      "br": {
+        "monday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+          { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+        ]
+      },
+      "rbb": {
+        "monday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+          { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+        ]
+      },
+      "swr": {
+        "monday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+          { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+        ]
+      }
+    }
     ],
     "wednesday": [
       { "time": "18:00", "title": "Angelo!", "description": "Animationsserie für Kinder." },
