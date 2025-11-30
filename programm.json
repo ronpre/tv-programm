@@ -2,7 +2,13 @@
   "ARD": {
     "monday": [
       { "time": "18:00", "title": "Abendschau", "description": "Regionale Themen zum Feierabend." },
-      { "time": "20:15", "title": "Tatort", "description": "Krimi aus Deutschland." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
+      { "time": "20:15", "title": "Tatort", "description": "Krimi aus Deutschland." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Hart aber fair", "description": "Diskussion mit Gästen." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
     "tuesday": [
       { "time": "18:00", "title": "Regionalzeit", "description": "Berichte aus den Bundesländern." },
