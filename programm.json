@@ -1,14 +1,119 @@
-  ,
+{
+  "ARD": {
+    "monday": [
+      { "time": "18:00", "title": "Abendschau", "description": "Regionale Themen zum Feierabend." },
+      { "time": "20:15", "title": "Tatort", "description": "Krimi aus Deutschland." }
+    ]
+  },
+  "ZDF": {
+    "monday": [
+      { "time": "18:00", "title": "SOKO Köln", "description": "Krimiserie aus Köln." },
+      { "time": "20:15", "title": "Montagskino", "description": "Spielfilm zum Wochenstart." }
+    ]
+  },
+  "arte": {
+    "monday": [
+      { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
+      { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
+    ]
+  },
+  "3 sat": {
+    "monday": [
+      { "time": "18:00", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
+      { "time": "20:15", "title": "Dokumentation", "description": "Natur und Menschen im Hochgebirge." }
+    ]
+  },
+  "rtl": {
+    "monday": [
+      { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+      { "time": "20:15", "title": "Wer wird Millionär?", "description": "Quizshow mit Günther Jauch." }
+    ]
+  },
+  "sat 1": {
+    "monday": [
+      { "time": "18:00", "title": "K11", "description": "Kommissare im Einsatz." },
+      { "time": "20:15", "title": "The Taste", "description": "Kochshow." }
+    ]
+  },
+  "pro sieben": {
+    "monday": [
+      { "time": "18:00", "title": "taff", "description": "Boulevardmagazin." },
+      { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet." }
+    ]
+  },
+  "vox": {
+    "monday": [
+      { "time": "18:00", "title": "First Dates", "description": "Blind Date im Restaurant." },
+      { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+    ]
+  },
   "kabel eins": {
     "monday": [
       { "time": "18:00", "title": "Abenteuer Leben", "description": "Reportagen und Service." },
-      { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie rund um ein Ermittlerteam." }
-    {
-      "ARD": {
-        "monday": [
-          { "time": "18:00", "title": "Abendschau", "description": "Regionale Themen zum Feierabend." },
-          { "time": "20:15", "title": "Tatort", "description": "Krimi aus Deutschland." }
-        ],
+      { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie." }
+    ]
+  },
+  "rtl zwei": {
+    "monday": [
+      { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap aus Berlin." },
+      { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über Millionäre." }
+    ]
+  },
+  "super rtl": {
+    "monday": [
+      { "time": "18:00", "title": "Angelo!", "description": "Animationsserie." },
+      { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow." }
+    ]
+  },
+  "phoenix": {
+    "monday": [
+      { "time": "18:00", "title": "phoenix der tag", "description": "Nachrichten und Hintergründe." },
+      { "time": "20:15", "title": "Runde der Woche", "description": "Diskussion zu aktuellen Themen." }
+    ]
+  },
+  "ndr": {
+    "monday": [
+      { "time": "18:00", "title": "DAS!", "description": "Talk- und Servicemagazin." },
+      { "time": "20:15", "title": "Nordmagazin", "description": "Nachrichten aus Norddeutschland." }
+    ]
+  },
+  "mdr": {
+    "monday": [
+      { "time": "18:00", "title": "MDR um 4", "description": "Nachmittagsmagazin." },
+      { "time": "20:15", "title": "Sachsenspiegel", "description": "Nachrichten aus Sachsen." }
+    ]
+  },
+  "wdr": {
+    "monday": [
+      { "time": "18:00", "title": "Lokalzeit", "description": "Regionale Nachrichten aus NRW." },
+      { "time": "20:15", "title": "Aktuelle Stunde", "description": "Nachrichten aus NRW." }
+    ]
+  },
+  "hr": {
+    "monday": [
+      { "time": "18:00", "title": "hessenschau", "description": "Nachrichten aus Hessen." },
+      { "time": "20:15", "title": "maintower", "description": "Boulevardmagazin aus Hessen." }
+    ]
+  },
+  "br": {
+    "monday": [
+      { "time": "18:00", "title": "Abendschau", "description": "Nachrichten aus Bayern." },
+      { "time": "20:15", "title": "quer", "description": "Satire und Gesellschaftsmagazin." }
+    ]
+  },
+  "rbb": {
+    "monday": [
+      { "time": "18:00", "title": "rbb um 6", "description": "Nachrichten aus Berlin und Brandenburg." },
+      { "time": "20:15", "title": "zibb", "description": "Service-Magazin." }
+    ]
+  },
+  "swr": {
+    "monday": [
+      { "time": "18:00", "title": "Landesschau BW", "description": "Nachrichten aus dem Südwesten." },
+      { "time": "20:15", "title": "Zur Sache BW!", "description": "Politikmagazin." }
+    ]
+  }
+}
         "tuesday": [
           { "time": "18:00", "title": "Regionalzeit", "description": "Berichte aus den Bundesländern." },
           { "time": "20:15", "title": "In aller Freundschaft", "description": "Arztserie aus Leipzig." }
