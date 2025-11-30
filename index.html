@@ -328,7 +328,12 @@
                 return;
             }
 
-            Object.entries(scheduleData).forEach(([channel, plan]) => {
+            const channelOrder = [
+                "ARD", "ZDF", "arte", "3 sat", "rtl", "sat 1", "pro sieben", "vox"
+            ];
+            channelOrder.forEach(channel => {
+                const plan = scheduleData[channel];
+                if (!plan) return;
                 const nightlySlots = (plan[dayKey] || []).filter(slot => {
                     const minutes = toMinutes(slot.time);
                     return minutes >= (18 * 60) && minutes < 24 * 60;
