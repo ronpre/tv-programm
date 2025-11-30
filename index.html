@@ -197,10 +197,10 @@
                     throw new Error(`Programmabruf fehlgeschlagen: ${response.status}`);
                 }
                 const data = await response.json();
-                scheduleData = data && typeof data === "object" ? data : fallbackSchedule;
+                scheduleData = data && typeof data === "object" ? data : {};
             } catch (error) {
-                console.error("Falle auf lokale Programmdaten zurück", error);
-                scheduleData = fallbackSchedule;
+                console.error("Programmabruf fehlgeschlagen", error);
+                scheduleData = {};
             }
         }
 
