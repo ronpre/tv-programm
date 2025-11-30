@@ -191,6 +191,229 @@
     ]
   },
   "ZDF": {
+      },
+      "arte": {
+        "monday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin mit Themen aus aller Welt." },
+          { "time": "19:30", "title": "Mit offenen Karten", "description": "Geopolitische Analysen und Karten." },
+          { "time": "20:15", "title": "Spielfilm: Die Frau im Nebel", "description": "Preisgekrönter europäischer Spielfilm." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin mit spannenden Experimenten." },
+          { "time": "19:30", "title": "Re: Europa", "description": "Reportagen aus Europa." },
+          { "time": "20:15", "title": "Dokumentarfilm: Unser blauer Planet", "description": "Faszinierende Einblicke in die Ozeane." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "360° Geo Reportage", "description": "Reportagen aus aller Welt." },
+          { "time": "19:30", "title": "Arte Journal", "description": "Nachrichten aus europäischer Perspektive." },
+          { "time": "20:15", "title": "Konzert: Beethoven für alle", "description": "Klassik-Highlight aus der Elbphilharmonie." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin mit Themen aus aller Welt." },
+          { "time": "19:30", "title": "Mit offenen Karten", "description": "Geopolitische Analysen und Karten." },
+          { "time": "20:15", "title": "Spielfilm: Die Frau im Nebel", "description": "Preisgekrönter europäischer Spielfilm." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin mit spannenden Experimenten." },
+          { "time": "19:30", "title": "Re: Europa", "description": "Reportagen aus Europa." },
+          { "time": "20:15", "title": "Dokumentarfilm: Unser blauer Planet", "description": "Faszinierende Einblicke in die Ozeane." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "360° Geo Reportage", "description": "Reportagen aus aller Welt." },
+          { "time": "19:30", "title": "Arte Journal", "description": "Nachrichten aus europäischer Perspektive." },
+          { "time": "20:15", "title": "Konzert: Beethoven für alle", "description": "Klassik-Highlight aus der Elbphilharmonie." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin mit Themen aus aller Welt." },
+          { "time": "19:30", "title": "Mit offenen Karten", "description": "Geopolitische Analysen und Karten." },
+          { "time": "20:15", "title": "Spielfilm: Die Frau im Nebel", "description": "Preisgekrönter europäischer Spielfilm." }
+        ]
+      },
+      "3 sat": {
+        "monday": [
+          { "time": "18:00", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "19:30", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+          { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "Scobel", "description": "Philosophische und gesellschaftliche Analysen." },
+          { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Film: Die Akte Odessa", "description": "Spannender Politthriller." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+          { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Scobel", "description": "Philosophische und gesellschaftliche Analysen." },
+          { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Film: Die Akte Odessa", "description": "Spannender Politthriller." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+          { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "Scobel", "description": "Philosophische und gesellschaftliche Analysen." },
+          { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Film: Die Akte Odessa", "description": "Spannender Politthriller." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+          { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+          { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+        ]
+      },
+      "rtl": {
+        "monday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Wer wird Millionär?", "description": "Das Quiz mit Günther Jauch." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Die Höhle der Löwen", "description": "Gründer stellen ihre Ideen vor." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Sankt Maik", "description": "Comedyserie um einen unkonventionellen Pfarrer." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Alarm für Cobra 11", "description": "Actionreiche Autobahnpolizei-Serie." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Let's Dance", "description": "Prominente tanzen um die Wette." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Deutschland sucht den Superstar", "description": "Die große Castingshow." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
+          { "time": "20:15", "title": "Bauer sucht Frau", "description": "Landwirte auf Partnersuche." }
+        ]
+      },
+      "sat 1": {
+        "monday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow mit prominenter Jury." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "Promi Big Brother", "description": "Prominente im Container." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow mit prominenter Jury." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "Promi Big Brother", "description": "Prominente im Container." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow mit prominenter Jury." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "Promi Big Brother", "description": "Prominente im Container." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "K11 - Kommissare im Einsatz", "description": "Echte Kommissare lösen echte Fälle." },
+          { "time": "19:30", "title": "Lenßen übernimmt", "description": "Anwalt Ingo Lenßen hilft in schwierigen Situationen." },
+          { "time": "20:15", "title": "The Taste", "description": "Kochshow mit prominenter Jury." }
+        ]
+      },
+      "pro sieben": {
+        "monday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet um die Wette." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Die Show mit den beiden Entertainern." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet um die Wette." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Die Show mit den beiden Entertainern." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet um die Wette." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "Joko & Klaas gegen ProSieben", "description": "Die Show mit den beiden Entertainern." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "taff", "description": "Das Boulevardmagazin am Vorabend." },
+          { "time": "19:30", "title": "Galileo", "description": "Das Wissensmagazin mit spannenden Themen." },
+          { "time": "20:15", "title": "The Masked Singer", "description": "Promis singen verkleidet um die Wette." }
+        ]
+      },
+      "vox": {
+        "monday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ],
+        "tuesday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen ihre Songs." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen ihre Songs." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Sing meinen Song", "description": "Musiker tauschen ihre Songs." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "First Dates - Ein Tisch für zwei", "description": "Singles treffen sich zum Blind Date." },
+          { "time": "19:30", "title": "Das perfekte Dinner", "description": "Kochwettbewerb mit Hobbyköchen." },
+          { "time": "20:15", "title": "Kitchen Impossible", "description": "Kochduell mit Tim Mälzer." }
+        ]
+      }
     "monday": [
       {
         "time": "18:00",
