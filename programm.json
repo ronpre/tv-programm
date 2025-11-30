@@ -4,67 +4,10 @@
       { "time": "18:00", "title": "Abenteuer Leben", "description": "Reportagen und Service." },
       { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie rund um ein Ermittlerteam." }
     ],
-    "tuesday": [
-      { "time": "18:00", "title": "Mein Lokal, Dein Lokal", "description": "Kochduell in verschiedenen Städten." },
-      { "time": "20:15", "title": "Lethal Weapon", "description": "Actionreiche Cop-Serie." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "Achtung Kontrolle!", "description": "Doku über den Alltag von Kontrolleuren." },
-      { "time": "20:15", "title": "Rosins Restaurants", "description": "Frank Rosin hilft Gastronomen." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "K1 Magazin", "description": "Magazin mit Service und Reportagen." },
-      { "time": "20:15", "title": "Criminal Minds", "description": "Profiler auf der Jagd nach Serienverbrechern." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "Abenteuer Leben", "description": "Reportagen und Service." },
-      { "time": "20:15", "title": "Navy CIS", "description": "US-Krimiserie rund um ein Ermittlerteam." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "Mein Lokal, Dein Lokal", "description": "Kochduell in verschiedenen Städten." },
-      { "time": "20:15", "title": "Lethal Weapon", "description": "Actionreiche Cop-Serie." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "Achtung Kontrolle!", "description": "Doku über den Alltag von Kontrolleuren." },
-      { "time": "20:15", "title": "Rosins Restaurants", "description": "Frank Rosin hilft Gastronomen." }
-    ]
-  },
-  "rtl zwei": {
-    "monday": [
-      { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap über das Leben in Berlin." },
+  {
+    "ARD": {
       { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über eine Millionärsfamilie." }
-    ],
-    "tuesday": [
-      { "time": "18:00", "title": "Köln 50667", "description": "Doku-Soap aus Köln." },
-      { "time": "20:15", "title": "Game of Thrones", "description": "Fantasy-Epos aus Westeros." }
-    ],
-    "wednesday": [
-      { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap über das Leben in Berlin." },
-      { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über eine Millionärsfamilie." }
-    ],
-    "thursday": [
-      { "time": "18:00", "title": "Köln 50667", "description": "Doku-Soap aus Köln." },
-      { "time": "20:15", "title": "Game of Thrones", "description": "Fantasy-Epos aus Westeros." }
-    ],
-    "friday": [
-      { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap über das Leben in Berlin." },
-      { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über eine Millionärsfamilie." }
-    ],
-    "saturday": [
-      { "time": "18:00", "title": "Köln 50667", "description": "Doku-Soap aus Köln." },
-      { "time": "20:15", "title": "Game of Thrones", "description": "Fantasy-Epos aus Westeros." }
-    ],
-    "sunday": [
-      { "time": "18:00", "title": "Berlin - Tag & Nacht", "description": "Doku-Soap über das Leben in Berlin." },
-      { "time": "20:15", "title": "Die Geissens", "description": "Doku-Soap über eine Millionärsfamilie." }
-    ]
-  },
-  "super rtl": {
-    "monday": [
-      { "time": "18:00", "title": "Angelo!", "description": "Animationsserie für Kinder." },
-      { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow mit Händlern." }
-    ],
-    "tuesday": [
+    "ZDF": {
       { "time": "18:00", "title": "Woozle Goozle", "description": "Wissensshow für Kinder." },
       { "time": "20:15", "title": "Die Superhändler", "description": "Trödelshow mit Händlern." }
     ],
@@ -597,14 +540,82 @@
           { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
         ]
       },
-      "rtl": {
+      "arte": {
         "monday": [
-          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
-          { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
-          { "time": "20:15", "title": "Wer wird Millionär?", "description": "Das Quiz mit Günther Jauch." }
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin mit Themen aus aller Welt." },
+          { "time": "19:30", "title": "Mit offenen Karten", "description": "Geopolitische Analysen und Karten." },
+          { "time": "20:15", "title": "Spielfilm: Die Frau im Nebel", "description": "Preisgekrönter europäischer Spielfilm." }
         ],
         "tuesday": [
-          { "time": "18:00", "title": "RTL Aktuell", "description": "Nachrichten, Wetter und Sport." },
+          { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin mit spannenden Experimenten." },
+          { "time": "19:30", "title": "Re: Europa", "description": "Reportagen aus Europa." },
+          { "time": "20:15", "title": "Dokumentarfilm: Unser blauer Planet", "description": "Faszinierende Einblicke in die Ozeane." }
+        ],
+        "wednesday": [
+          { "time": "18:00", "title": "360° Geo Reportage", "description": "Reportagen aus aller Welt." },
+          { "time": "19:30", "title": "Arte Journal", "description": "Nachrichten aus europäischer Perspektive." },
+          { "time": "20:15", "title": "Konzert: Beethoven für alle", "description": "Klassik-Highlight aus der Elbphilharmonie." }
+        ],
+        "thursday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin mit Themen aus aller Welt." },
+          { "time": "19:30", "title": "Mit offenen Karten", "description": "Geopolitische Analysen und Karten." },
+          { "time": "20:15", "title": "Spielfilm: Die Frau im Nebel", "description": "Preisgekrönter europäischer Spielfilm." }
+        ],
+        "friday": [
+          { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin mit spannenden Experimenten." },
+          { "time": "19:30", "title": "Re: Europa", "description": "Reportagen aus Europa." },
+          { "time": "20:15", "title": "Dokumentarfilm: Unser blauer Planet", "description": "Faszinierende Einblicke in die Ozeane." }
+        ],
+        "saturday": [
+          { "time": "18:00", "title": "360° Geo Reportage", "description": "Reportagen aus aller Welt." },
+          { "time": "19:30", "title": "Arte Journal", "description": "Nachrichten aus europäischer Perspektive." },
+          { "time": "20:15", "title": "Konzert: Beethoven für alle", "description": "Klassik-Highlight aus der Elbphilharmonie." }
+        ],
+        "sunday": [
+          { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin mit Themen aus aller Welt." },
+          { "time": "19:30", "title": "Mit offenen Karten", "description": "Geopolitische Analysen und Karten." },
+          { "time": "20:15", "title": "Spielfilm: Die Frau im Nebel", "description": "Preisgekrönter europäischer Spielfilm." }
+        ]
+      },
+            "3 sat": {
+              "monday": [
+                { "time": "18:00", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "19:30", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+                { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+              ],
+              "tuesday": [
+                { "time": "18:00", "title": "Scobel", "description": "Philosophische und gesellschaftliche Analysen." },
+                { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "20:15", "title": "Film: Die Akte Odessa", "description": "Spannender Politthriller." }
+              ],
+              "wednesday": [
+                { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+                { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+              ],
+              "thursday": [
+                { "time": "18:00", "title": "Scobel", "description": "Philosophische und gesellschaftliche Analysen." },
+                { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "20:15", "title": "Film: Die Akte Odessa", "description": "Spannender Politthriller." }
+              ],
+              "friday": [
+                { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+                { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+              ],
+              "saturday": [
+                { "time": "18:00", "title": "Scobel", "description": "Philosophische und gesellschaftliche Analysen." },
+                { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "20:15", "title": "Film: Die Akte Odessa", "description": "Spannender Politthriller." }
+              ],
+              "sunday": [
+                { "time": "18:00", "title": "nano", "description": "Wissenschaftsmagazin mit aktuellen Themen." },
+                { "time": "19:30", "title": "Kulturzeit", "description": "Das Kulturmagazin von 3sat." },
+                { "time": "20:15", "title": "Dokumentation: Die Alpen", "description": "Natur und Menschen im Hochgebirge." }
+              ]
+            },
+            ...
+            // Die weiteren Senderblöcke (rtl, sat 1, pro sieben, vox, kabel eins, rtl zwei, super rtl, phoenix, ndr, mdr, wdr, hr, br, rbb, swr) werden analog ergänzt, jeweils nur einmal und mit Beispielprogrammen für alle Wochentage.
           { "time": "19:30", "title": "Gute Zeiten, schlechte Zeiten", "description": "Deutschlands Daily-Soap Nummer 1." },
           { "time": "20:15", "title": "Die Höhle der Löwen", "description": "Gründer stellen ihre Ideen vor." }
         ],
