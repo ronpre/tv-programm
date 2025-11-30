@@ -12,57 +12,135 @@
     ],
     "tuesday": [
       { "time": "18:00", "title": "Regionalzeit", "description": "Berichte aus den Bundesländern." },
-      { "time": "20:15", "title": "In aller Freundschaft", "description": "Arztserie aus Leipzig." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
+      { "time": "20:15", "title": "In aller Freundschaft", "description": "Arztserie aus Leipzig." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Nuhr im Ersten", "description": "Kabarettistischer Wochenrückblick." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
     "wednesday": [
       { "time": "18:00", "title": "Wissen Kompakt", "description": "Wissenschaft einfach erklärt." },
-      { "time": "20:15", "title": "Die große Doku", "description": "Dokumentation zu aktuellen Themen." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
+      { "time": "20:15", "title": "Die große Doku", "description": "Dokumentation zu aktuellen Themen." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Maischberger", "description": "Talkrunde mit Gästen." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
     "thursday": [
       { "time": "18:00", "title": "Story des Tages", "description": "Reportage zu aktuellen Themen." },
-      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
+      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Monitor", "description": "Politikmagazin." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
     "friday": [
       { "time": "18:00", "title": "Brisant", "description": "Boulevardmagazin." },
-      { "time": "20:15", "title": "Quizduell", "description": "Quizshow mit Prominenten." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Wirtschaft vor acht", "description": "Wirtschaftsnachrichten kompakt." },
+      { "time": "20:15", "title": "Quizduell", "description": "Quizshow mit Prominenten." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Tatort (Wdh)", "description": "Krimi-Wiederholung." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
     "saturday": [
       { "time": "18:00", "title": "Sportschau", "description": "Sportnachrichten und Analysen." },
-      { "time": "20:15", "title": "Samstagskrimi", "description": "Krimi am Samstagabend." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Sportschau vor acht", "description": "Sportliche Highlights." },
+      { "time": "20:15", "title": "Samstagskrimi", "description": "Krimi am Samstagabend." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Kaum zu glauben!", "description": "Quizshow." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ],
     "sunday": [
       { "time": "18:00", "title": "Länderreport", "description": "Berichte aus den Regionen." },
-      { "time": "20:15", "title": "Polizeiruf 110", "description": "Krimireihe am Sonntag." }
+      { "time": "18:30", "title": "Wetter vor acht", "description": "Aktuelle Wetterprognose." },
+      { "time": "19:00", "title": "Tagesschau", "description": "Die wichtigsten Nachrichten des Tages." },
+      { "time": "19:30", "title": "Weltspiegel", "description": "Auslandsmagazin." },
+      { "time": "20:15", "title": "Polizeiruf 110", "description": "Krimireihe am Sonntag." },
+      { "time": "21:45", "title": "Tagesthemen", "description": "Analysen und Hintergründe." },
+      { "time": "22:30", "title": "Anne Will", "description": "Talkrunde." },
+      { "time": "23:15", "title": "Nachtmagazin", "description": "Spätnachrichten." }
     ]
   },
   "ZDF": {
     "monday": [
       { "time": "18:00", "title": "SOKO Köln", "description": "Krimiserie aus Köln." },
-      { "time": "20:15", "title": "Montagskino", "description": "Spielfilm zum Wochenstart." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
+      { "time": "20:15", "title": "Montagskino", "description": "Spielfilm zum Wochenstart." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
+      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
     ],
     "tuesday": [
       { "time": "18:00", "title": "SOKO Leipzig", "description": "Krimiserie aus Leipzig." },
-      { "time": "20:15", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." },
+      { "time": "20:15", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "37°", "description": "Reportage." },
+      { "time": "23:00", "title": "maybrit illner", "description": "Talkshow." }
     ],
     "wednesday": [
       { "time": "18:00", "title": "SOKO Wismar", "description": "Krimiserie aus Wismar." },
-      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
+      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
+      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
     ],
     "thursday": [
       { "time": "18:00", "title": "SOKO Stuttgart", "description": "Krimiserie aus Stuttgart." },
-      { "time": "20:15", "title": "DonnerstagsKrimi", "description": "Krimi am Donnerstag." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." },
+      { "time": "20:15", "title": "DonnerstagsKrimi", "description": "Krimi am Donnerstag." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "37°", "description": "Reportage." },
+      { "time": "23:00", "title": "maybrit illner", "description": "Talkshow." }
     ],
     "friday": [
       { "time": "18:00", "title": "SOKO Hamburg", "description": "Krimiserie aus Hamburg." },
-      { "time": "20:15", "title": "Der Quiz-Champion", "description": "Quizshow mit Prominenten." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
+      { "time": "20:15", "title": "Der Quiz-Champion", "description": "Quizshow mit Prominenten." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
+      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
     ],
     "saturday": [
       { "time": "18:00", "title": "plan b", "description": "Reportagen und Dokus." },
-      { "time": "20:15", "title": "Das aktuelle Sportstudio", "description": "Sport und Analysen." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
+      { "time": "20:15", "title": "Das aktuelle Sportstudio", "description": "Sport und Analysen." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
+      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
     ],
     "sunday": [
       { "time": "18:00", "title": "Terra Xpress", "description": "Wissensmagazin." },
-      { "time": "20:15", "title": "Terra X", "description": "Wissensdoku mit Bildern." }
+      { "time": "18:45", "title": "heute", "description": "Nachrichten." },
+      { "time": "19:00", "title": "Leute heute", "description": "Boulevardmagazin." },
+      { "time": "19:25", "title": "WISO", "description": "Wirtschaftsmagazin." },
+      { "time": "20:15", "title": "Terra X", "description": "Wissensdoku mit Bildern." },
+      { "time": "21:45", "title": "heute journal", "description": "Nachrichten und Analysen." },
+      { "time": "22:15", "title": "Markus Lanz", "description": "Talkshow." },
+      { "time": "23:00", "title": "aspekte", "description": "Kulturmagazin." }
     ]
   },
   "arte": {
