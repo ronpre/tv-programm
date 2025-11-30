@@ -3,20 +3,93 @@
     "monday": [
       { "time": "18:00", "title": "Abendschau", "description": "Regionale Themen zum Feierabend." },
       { "time": "20:15", "title": "Tatort", "description": "Krimi aus Deutschland." }
+    ],
+    "tuesday": [
+      { "time": "18:00", "title": "Regionalzeit", "description": "Berichte aus den Bundesländern." },
+      { "time": "20:15", "title": "In aller Freundschaft", "description": "Arztserie aus Leipzig." }
+    ],
+    "wednesday": [
+      { "time": "18:00", "title": "Wissen Kompakt", "description": "Wissenschaft einfach erklärt." },
+      { "time": "20:15", "title": "Die große Doku", "description": "Dokumentation zu aktuellen Themen." }
+    ],
+    "thursday": [
+      { "time": "18:00", "title": "Story des Tages", "description": "Reportage zu aktuellen Themen." },
+      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." }
+    ],
+    "friday": [
+      { "time": "18:00", "title": "Brisant", "description": "Boulevardmagazin." },
+      { "time": "20:15", "title": "Quizduell", "description": "Quizshow mit Prominenten." }
+    ],
+    "saturday": [
+      { "time": "18:00", "title": "Sportschau", "description": "Sportnachrichten und Analysen." },
+      { "time": "20:15", "title": "Samstagskrimi", "description": "Krimi am Samstagabend." }
+    ],
+    "sunday": [
+      { "time": "18:00", "title": "Länderreport", "description": "Berichte aus den Regionen." },
+      { "time": "20:15", "title": "Polizeiruf 110", "description": "Krimireihe am Sonntag." }
     ]
   },
   "ZDF": {
     "monday": [
       { "time": "18:00", "title": "SOKO Köln", "description": "Krimiserie aus Köln." },
       { "time": "20:15", "title": "Montagskino", "description": "Spielfilm zum Wochenstart." }
+    ],
+    "tuesday": [
+      { "time": "18:00", "title": "SOKO Leipzig", "description": "Krimiserie aus Leipzig." },
+      { "time": "20:15", "title": "ZDFzeit", "description": "Dokumentation mit Tiefgang." }
+    ],
+    "wednesday": [
+      { "time": "18:00", "title": "SOKO Wismar", "description": "Krimiserie aus Wismar." },
+      { "time": "20:15", "title": "Der Bergdoktor", "description": "Arztserie in den Alpen." }
+    ],
+    "thursday": [
+      { "time": "18:00", "title": "SOKO Stuttgart", "description": "Krimiserie aus Stuttgart." },
+      { "time": "20:15", "title": "DonnerstagsKrimi", "description": "Krimi am Donnerstag." }
+    ],
+    "friday": [
+      { "time": "18:00", "title": "SOKO Hamburg", "description": "Krimiserie aus Hamburg." },
+      { "time": "20:15", "title": "Der Quiz-Champion", "description": "Quizshow mit Prominenten." }
+    ],
+    "saturday": [
+      { "time": "18:00", "title": "plan b", "description": "Reportagen und Dokus." },
+      { "time": "20:15", "title": "Das aktuelle Sportstudio", "description": "Sport und Analysen." }
+    ],
+    "sunday": [
+      { "time": "18:00", "title": "Terra Xpress", "description": "Wissensmagazin." },
+      { "time": "20:15", "title": "Terra X", "description": "Wissensdoku mit Bildern." }
     ]
   },
   "arte": {
     "monday": [
       { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
       { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
+    ],
+    "tuesday": [
+      { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin." },
+      { "time": "20:15", "title": "Dokumentarfilm", "description": "Doku aus Europa." }
+    ],
+    "wednesday": [
+      { "time": "18:00", "title": "Geo Reportage", "description": "Reportagen aus aller Welt." },
+      { "time": "20:15", "title": "Konzert", "description": "Klassik-Highlight." }
+    ],
+    "thursday": [
+      { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
+      { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
+    ],
+    "friday": [
+      { "time": "18:00", "title": "Xenius", "description": "Wissenschaftsmagazin." },
+      { "time": "20:15", "title": "Dokumentarfilm", "description": "Doku aus Europa." }
+    ],
+    "saturday": [
+      { "time": "18:00", "title": "Geo Reportage", "description": "Reportagen aus aller Welt." },
+      { "time": "20:15", "title": "Konzert", "description": "Klassik-Highlight." }
+    ],
+    "sunday": [
+      { "time": "18:00", "title": "Stadt Land Kunst", "description": "Kulturmagazin." },
+      { "time": "20:15", "title": "Spielfilm", "description": "Europäischer Spielfilm." }
     ]
   },
+    // Analog für alle weiteren Sender: 3 sat, rtl, sat 1, pro sieben, vox, kabel eins, rtl zwei, super rtl, phoenix, ndr, mdr, wdr, hr, br, rbb, swr
   "3 sat": {
     "monday": [
       { "time": "18:00", "title": "Kulturzeit", "description": "Kulturmagazin von 3sat." },
